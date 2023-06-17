@@ -1,0 +1,1 @@
+.\pyarmor obfuscate --recursive kr1_templates/kr1.py

@@ -1,0 +1,10 @@
+{
+	"name": "mt",
+	"authors": [
+		"Oleg Dragun"
+	],
+	"description": "mt homework",
+	"copyright": "Copyright © 2022, Oleg Dragun",
+	"license": "MIT",
+	"targetType": "executable"
+}
