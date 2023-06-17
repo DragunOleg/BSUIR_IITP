@@ -7,6 +7,4 @@
 
 Кода диплома не будет, это скорее образец оформления
 
-МОИУ репа: https://github.com/DragunOleg/moiy
-
 ММОД репа: https://github.com/DragunOleg/mmod
